@@ -22,4 +22,12 @@ h5 {
   font-family: "Chango", sans-serif;
 }
 
+.navbar-brand {
+  font-family: "Anton", sans-serif;
+}
+
+.header {
+  background-color: rgb(17, 16, 16);
+  
+}
 
